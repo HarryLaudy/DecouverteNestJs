@@ -1,0 +1,10 @@
+{
+    "type" : "mysql",
+    "host": "localhost",
+    "username": "root",
+    "password": "password",
+    "database": "idruide",
+    "logging" : true,
+    "entities": ["dist/**/*.entity.js"],
+    "synchronize": false
+}
